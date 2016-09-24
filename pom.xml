@@ -4,7 +4,7 @@
   <groupId>com.example</groupId>
   <artifactId>functional-java</artifactId>
   <packaging>jar</packaging>
-  <version>0.1-SNAPSHOT</version>
+  <version>0.2.1</version>
   <name>functional-java</name>
   <description>A library for illustrating functional programming with Java</description>
 
